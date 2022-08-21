@@ -18,8 +18,8 @@ class Client {
     this.character.getEye();
     this.character.getHair();
 
-    // 아래와 왕경영이라는 이름의 직모와 검정색 눈을 가진 성인 남성 캐릭터를 만들 수도 있다.
-    this.character = new Man('조수봉');
+    // 아래와 황경영이라는 이름의 직모와 검정색 눈을 가진 성인 남성 캐릭터를 만들 수도 있다.
+    this.character = new Man('황경영');
     this.character.hair = new Straight();
     this.character.eye = new Black();
   }
