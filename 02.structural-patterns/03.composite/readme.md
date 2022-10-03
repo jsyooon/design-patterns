@@ -9,4 +9,4 @@
 
 
 ## 구조
-<img src="./uml.jpg" style="max-width:50%">
+<img src="./uml.JPG" style="max-width:50%">
