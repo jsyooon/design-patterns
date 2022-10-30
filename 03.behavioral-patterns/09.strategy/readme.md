@@ -11,4 +11,4 @@
 
 ## 구조
 
-<img src="./uml.jpeg" style="max-width:70%">
+<img src="./uml.jpeg" width="70%">

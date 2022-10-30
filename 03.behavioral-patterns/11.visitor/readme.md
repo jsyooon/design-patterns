@@ -18,7 +18,7 @@
 
 `Acceptor` 클래스의 `accept` 메소드에 `Visitor` 클래스의 인스턴스를 전달하고 (`dispatch`), `Visitor` 클래스의 `visit` 메소드에 `Acceptor` 클래스의 인스턴스를 전달하는 (`dispatch`) 더블 디스패치 방식을 활용할 수 있다.
 
-<img src="./uml-1.jpeg" style="max-width:50%">
+<img src="./uml-1.jpeg" width="60%">
    
 ## 예시
 
